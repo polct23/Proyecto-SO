@@ -16,9 +16,9 @@ CREATE TABLE partidas(
 		id_partida INT NOT NULL AUTO_INCREMENT,
 		jugador1 VARCHAR(60) NOT NULL,
 		jugador2 VARCHAR(60) NOT NULL,
-		Ganador  INT,
-		fecha_partida INT,
-		duracion INT,
+		Ganador  VARCHAR(60),
+		fecha_partida INT NOT NULL,
+		duracion INT NOT NULL,
 		escenario_jugado INT NOT NULL,
 		PRIMARY KEY (id_partida)
 )	ENGINE = InnoDB;
