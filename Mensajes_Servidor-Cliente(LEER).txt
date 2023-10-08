@@ -1,0 +1,11 @@
+El mensaje con indicador 0/ - Cierra la conexion con el servidor
+El mensaje con indicador 1/*****/***** Inicia sesion en el servidor con 1/nombre/contraseña
+El mensaje con indicador 2/*****/***** Registra un usuario en el servidor con 2/nombre/contraseña
+El mensaje con indicador 3/*******/**** Consulta en la Base de datos 1
+El mensaje con indicador 4/*******/**** Consulta en la Base de datos 2
+El mensaje con indicador 5/*******/**** Consulta en la Base de datos 3
+El mensaje con indicador 6/*******/**** Consulta en la Base de datos 4
+
+
+
+

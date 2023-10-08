@@ -1,0 +1,14 @@
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\Cliente\Cliente_ProyectoSO\Cliente_ProyectoSO\bin\Debug\Cliente_ProyectoSO.exe.config
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\Cliente\Cliente_ProyectoSO\Cliente_ProyectoSO\bin\Debug\Cliente_ProyectoSO.exe
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\Cliente\Cliente_ProyectoSO\Cliente_ProyectoSO\bin\Debug\Cliente_ProyectoSO.pdb
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\Cliente\Cliente_ProyectoSO\Cliente_ProyectoSO\obj\Debug\Cliente_ProyectoSO.csproj.AssemblyReference.cache
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\Cliente\Cliente_ProyectoSO\Cliente_ProyectoSO\obj\Debug\Cliente_ProyectoSO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\Cliente\Cliente_ProyectoSO\Cliente_ProyectoSO\obj\Debug\Cliente_ProyectoSO.Properties.Resources.resources
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\Cliente\Cliente_ProyectoSO\Cliente_ProyectoSO\obj\Debug\Cliente_ProyectoSO.csproj.GenerateResource.cache
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\Cliente\Cliente_ProyectoSO\Cliente_ProyectoSO\obj\Debug\Cliente_ProyectoSO.csproj.CoreCompileInputs.cache
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\Cliente\Cliente_ProyectoSO\Cliente_ProyectoSO\obj\Debug\Cliente_ProyectoSO.exe
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\Cliente\Cliente_ProyectoSO\Cliente_ProyectoSO\obj\Debug\Cliente_ProyectoSO.pdb
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\Cliente\Cliente_ProyectoSO\Cliente_ProyectoSO\obj\Debug\Cliente_ProyectoSO.ConexionServidor.resources
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\Cliente\Cliente_ProyectoSO\Cliente_ProyectoSO\obj\Debug\Cliente_ProyectoSO.IniciarSesion.resources
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\Cliente\Cliente_ProyectoSO\Cliente_ProyectoSO\obj\Debug\Cliente_ProyectoSO.ConsultasBD.resources
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\Cliente\Cliente_ProyectoSO\Cliente_ProyectoSO\obj\Debug\Cliente_ProyectoSO.Registarse.resources
