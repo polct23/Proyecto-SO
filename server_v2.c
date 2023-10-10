@@ -170,9 +170,6 @@ int main(int argc, char *argv[]) {
 	struct sockaddr_in serv_adr;
 	char buff[512]; //variable per emmagatzemar els missatges que ens envia el client
 	
-	if(argc != 2)
-		error("\nParemetres erronis\nUs correcte: server num_port\n\n");
-	
 	if((sock_listen = socket(AF_INET, SOCK_STREAM, 0)) < 0)
 		error("Error creant socket");
 			  
