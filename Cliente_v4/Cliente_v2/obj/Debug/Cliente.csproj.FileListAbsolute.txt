@@ -1,0 +1,11 @@
+C:\Users\ayman\OneDrive\Escritorio\Cliente_v4\Cliente_v2\bin\Debug\Cliente_v2.exe.config
+C:\Users\ayman\OneDrive\Escritorio\Cliente_v4\Cliente_v2\bin\Debug\Cliente_v2.exe
+C:\Users\ayman\OneDrive\Escritorio\Cliente_v4\Cliente_v2\bin\Debug\Cliente_v2.pdb
+C:\Users\ayman\OneDrive\Escritorio\Cliente_v4\Cliente_v2\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\ayman\OneDrive\Escritorio\Cliente_v4\Cliente_v2\obj\Debug\Cliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\ayman\OneDrive\Escritorio\Cliente_v4\Cliente_v2\obj\Debug\Cliente_v2.Cliente.resources
+C:\Users\ayman\OneDrive\Escritorio\Cliente_v4\Cliente_v2\obj\Debug\Cliente_v2.Properties.Resources.resources
+C:\Users\ayman\OneDrive\Escritorio\Cliente_v4\Cliente_v2\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\ayman\OneDrive\Escritorio\Cliente_v4\Cliente_v2\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\ayman\OneDrive\Escritorio\Cliente_v4\Cliente_v2\obj\Debug\Cliente_v2.exe
+C:\Users\ayman\OneDrive\Escritorio\Cliente_v4\Cliente_v2\obj\Debug\Cliente_v2.pdb
