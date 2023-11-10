@@ -7,3 +7,5 @@ https://drive.google.com/file/d/1wKoksBXKO8JIRLX0ynpM5S21jUlQ8KXm/view?usp=shari
 "Video fet per Didac Arévalo:
 https://drive.google.com/file/d/1g3RXq9SD_olQr01HS90UsiroxoouLuGd/view?usp=sharing
 
+"Proyecto del grupo Dingo" "Versión 3 generedo por Pol Carreño" "Versión 3 verificado por Bernat Busquets y Didac Arévalo" "Versión 3 comunicado por Ayman Lhassani, "Video fet per Ayman Lhassani 'video en el drive'"
+https://drive.google.com/file/d/1z6Wn4shKoSWsF4BJ4UyE3pNA82wDX_1_/view?usp=sharing
