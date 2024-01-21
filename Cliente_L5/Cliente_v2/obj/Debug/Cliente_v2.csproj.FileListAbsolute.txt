@@ -1,0 +1,44 @@
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\v1\Clientev2\Cliente_v2\Cliente_v2\bin\Debug\Cliente_v2.exe.config
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\v1\Clientev2\Cliente_v2\Cliente_v2\bin\Debug\Cliente_v2.exe
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\v1\Clientev2\Cliente_v2\Cliente_v2\bin\Debug\Cliente_v2.pdb
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\v1\Clientev2\Cliente_v2\Cliente_v2\obj\Debug\Cliente_v2.csproj.AssemblyReference.cache
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\v1\Clientev2\Cliente_v2\Cliente_v2\obj\Debug\Cliente_v2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\v1\Clientev2\Cliente_v2\Cliente_v2\obj\Debug\Cliente_v2.Cliente.resources
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\v1\Clientev2\Cliente_v2\Cliente_v2\obj\Debug\Cliente_v2.Properties.Resources.resources
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\v1\Clientev2\Cliente_v2\Cliente_v2\obj\Debug\Cliente_v2.csproj.GenerateResource.cache
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\v1\Clientev2\Cliente_v2\Cliente_v2\obj\Debug\Cliente_v2.csproj.CoreCompileInputs.cache
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\v1\Clientev2\Cliente_v2\Cliente_v2\obj\Debug\Cliente_v2.exe
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\v1\Clientev2\Cliente_v2\Cliente_v2\obj\Debug\Cliente_v2.pdb
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\v1\Proyecto-SO-c1\Cliente_v1\Cliente_v2\bin\Debug\Cliente_v2.exe.config
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\v1\Proyecto-SO-c1\Cliente_v1\Cliente_v2\bin\Debug\Cliente_v2.exe
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\v1\Proyecto-SO-c1\Cliente_v1\Cliente_v2\bin\Debug\Cliente_v2.pdb
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\v1\Proyecto-SO-c1\Cliente_v1\Cliente_v2\obj\Debug\Cliente_v2.csproj.AssemblyReference.cache
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\v1\Proyecto-SO-c1\Cliente_v1\Cliente_v2\obj\Debug\Cliente_v2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\v1\Proyecto-SO-c1\Cliente_v1\Cliente_v2\obj\Debug\Cliente_v2.Cliente.resources
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\v1\Proyecto-SO-c1\Cliente_v1\Cliente_v2\obj\Debug\Cliente_v2.Properties.Resources.resources
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\v1\Proyecto-SO-c1\Cliente_v1\Cliente_v2\obj\Debug\Cliente_v2.csproj.GenerateResource.cache
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\v1\Proyecto-SO-c1\Cliente_v1\Cliente_v2\obj\Debug\Cliente_v2.csproj.CoreCompileInputs.cache
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\v1\Proyecto-SO-c1\Cliente_v1\Cliente_v2\obj\Debug\Cliente_v2.exe
+C:\Users\Didac Arévalo Nieto\OneDrive - Universitat Politècnica de Catalunya\2a\SO\Proyecto\v1\Proyecto-SO-c1\Cliente_v1\Cliente_v2\obj\Debug\Cliente_v2.pdb
+C:\Users\anton\Downloads\v1.1\v1.1\Cliente_v1\Cliente_v2\bin\Debug\Cliente_v2.exe.config
+C:\Users\anton\Downloads\v1.1\v1.1\Cliente_v1\Cliente_v2\bin\Debug\Cliente_v2.exe
+C:\Users\anton\Downloads\v1.1\v1.1\Cliente_v1\Cliente_v2\bin\Debug\Cliente_v2.pdb
+C:\Users\anton\Downloads\v1.1\v1.1\Cliente_v1\Cliente_v2\obj\Debug\Cliente_v2.csproj.AssemblyReference.cache
+C:\Users\anton\Downloads\v1.1\v1.1\Cliente_v1\Cliente_v2\obj\Debug\Cliente_v2.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\Downloads\v1.1\v1.1\Cliente_v1\Cliente_v2\obj\Debug\Cliente_v2.Cliente.resources
+C:\Users\anton\Downloads\v1.1\v1.1\Cliente_v1\Cliente_v2\obj\Debug\Cliente_v2.Properties.Resources.resources
+C:\Users\anton\Downloads\v1.1\v1.1\Cliente_v1\Cliente_v2\obj\Debug\Cliente_v2.csproj.GenerateResource.cache
+C:\Users\anton\Downloads\v1.1\v1.1\Cliente_v1\Cliente_v2\obj\Debug\Cliente_v2.csproj.CoreCompileInputs.cache
+C:\Users\anton\Downloads\v1.1\v1.1\Cliente_v1\Cliente_v2\obj\Debug\Cliente_v2.exe
+C:\Users\anton\Downloads\v1.1\v1.1\Cliente_v1\Cliente_v2\obj\Debug\Cliente_v2.pdb
+D:\Usuarios\Carre\Escritorio\polct23 Proyecto-SO main Cliente_v3\Cliente_v2\bin\Debug\Cliente_v2.exe.config
+D:\Usuarios\Carre\Escritorio\polct23 Proyecto-SO main Cliente_v3\Cliente_v2\bin\Debug\Cliente_v2.exe
+D:\Usuarios\Carre\Escritorio\polct23 Proyecto-SO main Cliente_v3\Cliente_v2\bin\Debug\Cliente_v2.pdb
+D:\Usuarios\Carre\Escritorio\polct23 Proyecto-SO main Cliente_v3\Cliente_v2\obj\Debug\Cliente_v2.csproj.AssemblyReference.cache
+D:\Usuarios\Carre\Escritorio\polct23 Proyecto-SO main Cliente_v3\Cliente_v2\obj\Debug\Cliente_v2.csproj.SuggestedBindingRedirects.cache
+D:\Usuarios\Carre\Escritorio\polct23 Proyecto-SO main Cliente_v3\Cliente_v2\obj\Debug\Cliente_v2.Cliente.resources
+D:\Usuarios\Carre\Escritorio\polct23 Proyecto-SO main Cliente_v3\Cliente_v2\obj\Debug\Cliente_v2.Properties.Resources.resources
+D:\Usuarios\Carre\Escritorio\polct23 Proyecto-SO main Cliente_v3\Cliente_v2\obj\Debug\Cliente_v2.csproj.GenerateResource.cache
+D:\Usuarios\Carre\Escritorio\polct23 Proyecto-SO main Cliente_v3\Cliente_v2\obj\Debug\Cliente_v2.csproj.CoreCompileInputs.cache
+D:\Usuarios\Carre\Escritorio\polct23 Proyecto-SO main Cliente_v3\Cliente_v2\obj\Debug\Cliente_v2.exe
+D:\Usuarios\Carre\Escritorio\polct23 Proyecto-SO main Cliente_v3\Cliente_v2\obj\Debug\Cliente_v2.pdb

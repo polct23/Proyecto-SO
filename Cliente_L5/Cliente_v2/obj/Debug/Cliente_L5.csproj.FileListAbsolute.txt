@@ -1,0 +1,64 @@
+D:\Usuarios\Carre\Escritorio\Cliente_L5\Cliente_v2\bin\Debug\Cliente_v2.exe.config
+D:\Usuarios\Carre\Escritorio\Cliente_L5\Cliente_v2\bin\Debug\Cliente_v2.exe
+D:\Usuarios\Carre\Escritorio\Cliente_L5\Cliente_v2\bin\Debug\Cliente_v2.pdb
+D:\Usuarios\Carre\Escritorio\Cliente_L5\Cliente_v2\obj\Debug\Cliente_L5.csproj.AssemblyReference.cache
+D:\Usuarios\Carre\Escritorio\Cliente_L5\Cliente_v2\obj\Debug\Cliente_L5.csproj.SuggestedBindingRedirects.cache
+D:\Usuarios\Carre\Escritorio\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.Cliente.resources
+D:\Usuarios\Carre\Escritorio\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.Properties.Resources.resources
+D:\Usuarios\Carre\Escritorio\Cliente_L5\Cliente_v2\obj\Debug\Cliente_L5.csproj.GenerateResource.cache
+D:\Usuarios\Carre\Escritorio\Cliente_L5\Cliente_v2\obj\Debug\Cliente_L5.csproj.CoreCompileInputs.cache
+D:\Usuarios\Carre\Escritorio\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.exe
+D:\Usuarios\Carre\Escritorio\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.pdb
+C:\Users\Ayman\Downloads\Cliente_VF_2\Cliente_L5\Cliente_v2\bin\Debug\Cliente_v2.exe.config
+C:\Users\Ayman\Downloads\Cliente_VF_2\Cliente_L5\Cliente_v2\bin\Debug\Cliente_v2.exe
+C:\Users\Ayman\Downloads\Cliente_VF_2\Cliente_L5\Cliente_v2\bin\Debug\Cliente_v2.pdb
+C:\Users\Ayman\Downloads\Cliente_VF_2\Cliente_L5\Cliente_v2\obj\Debug\Cliente_L5.csproj.AssemblyReference.cache
+C:\Users\Ayman\Downloads\Cliente_VF_2\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.Cliente.resources
+C:\Users\Ayman\Downloads\Cliente_VF_2\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.Properties.Resources.resources
+C:\Users\Ayman\Downloads\Cliente_VF_2\Cliente_L5\Cliente_v2\obj\Debug\Cliente_L5.csproj.GenerateResource.cache
+C:\Users\Ayman\Downloads\Cliente_VF_2\Cliente_L5\Cliente_v2\obj\Debug\Cliente_L5.csproj.CoreCompileInputs.cache
+C:\Users\Ayman\Downloads\Cliente_VF_2\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.exe
+C:\Users\Ayman\Downloads\Cliente_VF_2\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.pdb
+C:\Users\Ayman\Desktop\Cliente_VF_2\Cliente_L5\Cliente_v2\bin\Debug\Cliente_v2.exe.config
+C:\Users\Ayman\Desktop\Cliente_VF_2\Cliente_L5\Cliente_v2\bin\Debug\Cliente_v2.exe
+C:\Users\Ayman\Desktop\Cliente_VF_2\Cliente_L5\Cliente_v2\bin\Debug\Cliente_v2.pdb
+C:\Users\Ayman\Desktop\Cliente_VF_2\Cliente_L5\Cliente_v2\obj\Debug\Cliente_L5.csproj.AssemblyReference.cache
+C:\Users\Ayman\Desktop\Cliente_VF_2\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.Cliente.resources
+C:\Users\Ayman\Desktop\Cliente_VF_2\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.Properties.Resources.resources
+C:\Users\Ayman\Desktop\Cliente_VF_2\Cliente_L5\Cliente_v2\obj\Debug\Cliente_L5.csproj.GenerateResource.cache
+C:\Users\Ayman\Desktop\Cliente_VF_2\Cliente_L5\Cliente_v2\obj\Debug\Cliente_L5.csproj.CoreCompileInputs.cache
+C:\Users\Ayman\Desktop\Cliente_VF_2\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.exe
+C:\Users\Ayman\Desktop\Cliente_VF_2\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.pdb
+C:\Users\Ayman\Documents\Universidad\SO\Cliente_VF_2\Cliente_L5\Cliente_v2\bin\Debug\Cliente_v2.exe.config
+C:\Users\Ayman\Documents\Universidad\SO\Cliente_VF_2\Cliente_L5\Cliente_v2\bin\Debug\Cliente_v2.exe
+C:\Users\Ayman\Documents\Universidad\SO\Cliente_VF_2\Cliente_L5\Cliente_v2\bin\Debug\Cliente_v2.pdb
+C:\Users\Ayman\Documents\Universidad\SO\Cliente_VF_2\Cliente_L5\Cliente_v2\obj\Debug\Cliente_L5.csproj.AssemblyReference.cache
+C:\Users\Ayman\Documents\Universidad\SO\Cliente_VF_2\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.Cliente.resources
+C:\Users\Ayman\Documents\Universidad\SO\Cliente_VF_2\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.Properties.Resources.resources
+C:\Users\Ayman\Documents\Universidad\SO\Cliente_VF_2\Cliente_L5\Cliente_v2\obj\Debug\Cliente_L5.csproj.GenerateResource.cache
+C:\Users\Ayman\Documents\Universidad\SO\Cliente_VF_2\Cliente_L5\Cliente_v2\obj\Debug\Cliente_L5.csproj.CoreCompileInputs.cache
+C:\Users\Ayman\Documents\Universidad\SO\Cliente_VF_2\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.exe
+C:\Users\Ayman\Documents\Universidad\SO\Cliente_VF_2\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.pdb
+C:\Users\Ayman\Downloads\Cliente_L5\Cliente_L5\Cliente_v2\bin\Debug\Cliente_v2.exe.config
+C:\Users\Ayman\Downloads\Cliente_L5\Cliente_L5\Cliente_v2\bin\Debug\Cliente_v2.exe
+C:\Users\Ayman\Downloads\Cliente_L5\Cliente_L5\Cliente_v2\bin\Debug\Cliente_v2.pdb
+C:\Users\Ayman\Downloads\Cliente_L5\Cliente_L5\Cliente_v2\obj\Debug\Cliente_L5.csproj.AssemblyReference.cache
+C:\Users\Ayman\Downloads\Cliente_L5\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.Cliente.resources
+C:\Users\Ayman\Downloads\Cliente_L5\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.Properties.Resources.resources
+C:\Users\Ayman\Downloads\Cliente_L5\Cliente_L5\Cliente_v2\obj\Debug\Cliente_L5.csproj.GenerateResource.cache
+C:\Users\Ayman\Downloads\Cliente_L5\Cliente_L5\Cliente_v2\obj\Debug\Cliente_L5.csproj.CoreCompileInputs.cache
+C:\Users\Ayman\Downloads\Cliente_L5\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.exe
+C:\Users\Ayman\Downloads\Cliente_L5\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.pdb
+C:\Users\Didac Arévalo Nieto\Downloads\CLiente_Versionact\Cliente_L5\Cliente_L5\Cliente_v2\bin\Debug\Cliente_v2.exe.config
+C:\Users\Didac Arévalo Nieto\Downloads\CLiente_Versionact\Cliente_L5\Cliente_L5\Cliente_v2\bin\Debug\Cliente_v2.exe
+C:\Users\Didac Arévalo Nieto\Downloads\CLiente_Versionact\Cliente_L5\Cliente_L5\Cliente_v2\bin\Debug\Cliente_v2.pdb
+C:\Users\Didac Arévalo Nieto\Downloads\CLiente_Versionact\Cliente_L5\Cliente_L5\Cliente_v2\obj\Debug\Cliente_L5.csproj.AssemblyReference.cache
+C:\Users\Didac Arévalo Nieto\Downloads\CLiente_Versionact\Cliente_L5\Cliente_L5\Cliente_v2\obj\Debug\Cliente_L5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Didac Arévalo Nieto\Downloads\CLiente_Versionact\Cliente_L5\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.Cliente.resources
+C:\Users\Didac Arévalo Nieto\Downloads\CLiente_Versionact\Cliente_L5\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.Properties.Resources.resources
+C:\Users\Didac Arévalo Nieto\Downloads\CLiente_Versionact\Cliente_L5\Cliente_L5\Cliente_v2\obj\Debug\Cliente_L5.csproj.GenerateResource.cache
+C:\Users\Didac Arévalo Nieto\Downloads\CLiente_Versionact\Cliente_L5\Cliente_L5\Cliente_v2\obj\Debug\Cliente_L5.csproj.CoreCompileInputs.cache
+C:\Users\Didac Arévalo Nieto\Downloads\CLiente_Versionact\Cliente_L5\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.exe
+C:\Users\Didac Arévalo Nieto\Downloads\CLiente_Versionact\Cliente_L5\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.pdb
+C:\Users\Didac Arévalo Nieto\Downloads\CLiente_Versionact\Cliente_L5\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.Consulta3.resources
+C:\Users\Didac Arévalo Nieto\Downloads\CLiente_Versionact\Cliente_L5\Cliente_L5\Cliente_v2\obj\Debug\Cliente_v2.Consulta2.resources
