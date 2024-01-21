@@ -1,1 +1,1 @@
-Proyecto del grupo Dingo. Version Final del proyecto en el TAG(VERSION FINAL).
+Proyecto del grupo Dingo. Version Final del proyecto en el TAG (Version_Final).
